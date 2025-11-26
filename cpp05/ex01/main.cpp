@@ -2,8 +2,8 @@
 
 int main()
 {
-    // Bureaucrat b1;
-    // Bureaucrat b2;
+    Bureaucrat b1;
+    Bureaucrat b2;
 
     try
     {
